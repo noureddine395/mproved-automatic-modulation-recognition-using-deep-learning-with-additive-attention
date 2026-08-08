@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Improved Automatic Modulation Recognition Using Deep Learning with Additive Attention"
+authors:
+  - family-names: "El-Haryqy"
+    given-names: "Noureddine"
+  - family-names: "Kharbouche"
+    given-names: "Anass"
+  - family-names: "Ouamna"
+    given-names: "Hamza"
+  - family-names: "Madini"
+    given-names: "Zhour"
+  - family-names: "Zouine"
+    given-names: "Younes"
+preferred-citation:
+  type: article
+  title: "Improved automatic modulation recognition using deep learning with additive attention"
+  authors:
+    - family-names: "El-Haryqy"
+      given-names: "Noureddine"
+    - family-names: "Kharbouche"
+      given-names: "Anass"
+    - family-names: "Ouamna"
+      given-names: "Hamza"
+    - family-names: "Madini"
+      given-names: "Zhour"
+    - family-names: "Zouine"
+      given-names: "Younes"
+  journal: "Results in Engineering"
+  volume: 26
+  year: 2025
+  doi: "10.1016/j.rineng.2025.104783"
+  url: "https://doi.org/10.1016/j.rineng.2025.104783"
+repository-code: "https://github.com/noureddine395/mproved-automatic-modulation-recognition-using-deep-learning-with-additive-attention"
+license: MIT
