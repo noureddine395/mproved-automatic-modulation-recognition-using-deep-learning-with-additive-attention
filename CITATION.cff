@@ -31,5 +31,9 @@ preferred-citation:
   year: 2025
   doi: "10.1016/j.rineng.2025.104783"
   url: "https://doi.org/10.1016/j.rineng.2025.104783"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21854712"
+    description: "Archived software release (v1.0.0) on Zenodo"
 repository-code: "https://github.com/noureddine395/mproved-automatic-modulation-recognition-using-deep-learning-with-additive-attention"
 license: MIT
